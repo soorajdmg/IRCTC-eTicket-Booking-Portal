@@ -1,3 +1,6 @@
+![IRCTC GitHub Banner](https://github.com/user-attachments/assets/26a254c8-9cdb-42da-8645-0b793e6e2d25)
+
+
 Project Title: IRCTC eTicket Booking Portal
 
 Description:
